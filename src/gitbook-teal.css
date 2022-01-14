@@ -341,7 +341,7 @@ blockquote {
     background-color: var(--boxes);
     border-left: 4px solid var(--primary-color);
     border-radius: 0.3rem;
-    padding: 1rem;
+    padding: 0.5rem 1rem;
 }
 
 blockquote blockquote {
